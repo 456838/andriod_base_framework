@@ -1,0 +1,16 @@
+<resources>
+    <string name="name">基本框架</string>
+    <string name="xlistview_header_hint_normal">下拉可以刷新</string>
+    <string name="xlistview_header_hint_ready">松开后刷新下</string>
+    <string name="xlistview_header_hint_loading">正在加载中</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="folder_all">所有照片</string>
+    <string name="preview">预览</string>
+    <string name="msg_no_camera">没有系统相机</string>
+    <string name="msg_amount_limit">已经达到最高选择数量</string>
+    <string name="action_done">完成</string>
+    <string name="photo_unit">张</string>
+    <string name="tip_take_photo">拍摄照片</string>
+</resources>
